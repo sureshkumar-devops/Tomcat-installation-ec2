@@ -3,7 +3,7 @@
 ### Pre-requisites
 1. EC2 instance with Java 11
 ### Install Apache Tomcat
-1. Download tomcat packages from  https://tomcat.apache.org/download-80.cgi onto /opt on EC2 instance
+1. Download tomcat packages from  https://dlcdn.apache.org/tomcat/tomcat-10/v10.0.23/bin/apache-tomcat-10.0.23.tar.gz onto /opt on EC2 instance
    > Note: Make sure you change `<version>` with the tomcat version which you download. 
    ```sh 
    # Create tomcat directory
